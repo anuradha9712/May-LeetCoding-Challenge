@@ -9,7 +9,7 @@ We are given the root of a binary tree with unique values, and the values x and 
 
 Return true if and only if the nodes corresponding to the values x and y are cousins.
 
-[!image](https://assets.leetcode.com/uploads/2019/02/12/q1248-01.png)
+![image](https://assets.leetcode.com/uploads/2019/02/12/q1248-01.png)
 
 Input: root = [1,2,3,4], x = 4, y = 3
 Output: false

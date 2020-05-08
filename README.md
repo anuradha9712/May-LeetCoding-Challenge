@@ -14,5 +14,6 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [5. First Unique Character in String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | Map |
 | [6. Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | Moore's Voting Algo |
 | [7. Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | Binary Tree |
+| [8. Check Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | Math Formula |
 
 

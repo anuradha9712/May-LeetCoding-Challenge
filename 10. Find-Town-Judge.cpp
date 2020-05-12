@@ -33,6 +33,28 @@ trust[i][0] != trust[i][1]
 1 <= trust[i][0], trust[i][1] <= N
 '''
 
+ //========================Approach 1==============================================
+ class Solution {
+public:
+    
+      int findJudge(int N, vector<vector<int>>& trust) {
+           vector<int>count(N+1,0);
+          
+          for(auto &i:trust){
+              count[i[0]]--;
+              count[i[1]]++;
+          }
+          
+          for(int k=1;k<=N;k++){
+              if(count[k]==N-1)
+                  return k;
+          }
+          
+          return -1;
+      }
+ 
+ 
+ //=================================Approach 2=========================================
 class Solution {
 public:
     

@@ -15,6 +15,7 @@ Input: 14
 Output: false
 '''
 
+//===================Approach 1====================================
 class Solution {
 public:
     bool isPerfectSquare(int num) {
@@ -33,3 +34,26 @@ public:
         return false;
     }
 };
+
+//============================Approach 2=================================
+
+   
+    bool isPerfectSquare(int num){
+        
+        if(num == 1)
+            return true;
+        
+        long l=1 , r=num;
+        while(l<= r){
+            long mid = l + ((r-l)/2);
+            long s = mid*mid;
+            if(s== num)
+                return true;
+            if(s<num)
+                l = mid+1;
+            else
+                r = mid-1;
+        }
+        return false;
+        
+    }

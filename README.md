@@ -19,5 +19,6 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [10. Find Town Judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | Celebrity-Problem / Vectors
 | [11. Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | Queue |
 | [12. Single Element in Sorted Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | Binary Search/ XOR |
+| [13. Remove K Digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | NA |
 
 

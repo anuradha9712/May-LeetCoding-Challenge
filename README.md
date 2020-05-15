@@ -20,7 +20,7 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [11. Flood Fill](https://leetcode.com/problems/flood-fill/) | Queue |
 | [12. Single Element in Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Binary Search/ XOR |
 | [13. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | NA |
-| [14. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/ | Trie |
+| [14. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie |
 | [15. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Kadane's Algo|
 
 

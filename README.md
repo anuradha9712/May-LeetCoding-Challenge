@@ -7,11 +7,11 @@ A collection of solution for the May Leetcode Challenge 2020.
 
 | Problem Links | Algorithm/Data Structure Used |
 | :--- | :--- |
-| [1. First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | Binary Search |
-| [2. Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | Strings |
-| [3. Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | Map |
-| [4. Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | XOR operation |
-| [5. First Unique Character in String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | Map |
+| [1. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search |
+| [2. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Strings |
+| [3. Ransom Note](https://leetcode.com/problems/ransom-note/) | Map |
+| [4. Number Complement](https://leetcode.com/problems/number-complement/) | XOR operation |
+| [5. First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Map |
 | [6. Majority Element](https://leetcode.com/problems/majority-element/) | Moore's Voting Algo |
 | [7. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Binary Tree |
 | [8. Check Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Math Formula |

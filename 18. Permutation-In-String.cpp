@@ -41,7 +41,7 @@ public:
         
         if(smap == wmap) return true;
 
-
+       // we subtract one preceding character and add a new succeeding character to the new window considered. 
         for(int j=1; j<= s2_len - s1_len; j++){
             
             wmap[s2[j+s1_len - 1] -'a']++;

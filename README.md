@@ -26,6 +26,8 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [17. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding Window
 | [18. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Sliding Window
 | [19. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Nearest Maximum in Left |
+| [20. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Inorder Traversal
+
 
 
 

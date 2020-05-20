@@ -29,6 +29,8 @@ Output: 3
 
 /////////////////////////////////////////////////////////////////////////////////
 Aproach 1:-
+   time complexity:- O(n)
+   space complexity:- O(h)   
 
 /**
  * Definition for a binary tree node.

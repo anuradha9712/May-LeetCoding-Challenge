@@ -44,43 +44,27 @@ Aproach 1:-
 class Solution {
 public:
 
- void inorderTraversal(TreeNode* root, vector<int>& V){
-        if(root!=NULL){
-            inorderTraversal(root->left,V);
-            V.push_back(root->val);
-            inorderTraversal(root->right,V);
-        }
-    }
     
-    
-     int kthSmallest(TreeNode* root, int k) {
-        
-        vector<int>V;
-        inorderTraversal(root,V);
-        return V[k-1];
-     } 
-     
- }
- 
- //////////////////////////////////////////////////////////////////////////
- 
- Approach 2:- 
- 
-  void findSmallest(TreeNode* root,int& count,int k, int& ans){
+    void findSmallest(TreeNode* root,int& k, int& ans){
         if(root!=NULL){
-            findSmallest(root->left,count,k,ans);
-            count++;
-            if(count==k){ ans= root->val;}
-            findSmallest(root->right,count,k,ans);
+            findSmallest(root->left,k,ans);
+            k--;
+            if(k==0){ ans= root->val; return;}
+            findSmallest(root->right,k,ans);
         }
     }
     
       int kthSmallest(TreeNode* root, int k) {
        
-        int count=0;
         int ans=0;
-         findSmallest(root,count,k,ans);
+        findSmallest(root,k,ans);
         return ans;
         
     }
+  
+};
+ 
+ //////////////////////////////////////////////////////////////////////////
+ 
+
 

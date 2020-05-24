@@ -30,6 +30,8 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [21. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | DP|
 | [22. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Map|
 | [23. Interval List Intersection](https://leetcode.com/problems/interval-list-intersections/) | NA
+| [24. Construct BST from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| Stack
+
 
 
 

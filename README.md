@@ -32,6 +32,8 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [23. Interval List Intersection](https://leetcode.com/problems/interval-list-intersections/) | NA
 | [24. Construct BST from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| Stack
 | [25. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Dynamic Programming|
+| [26. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Cumulative-Sum/ Maps
+
 
 
 

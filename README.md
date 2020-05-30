@@ -35,7 +35,9 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [26. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Cumulative-Sum/ Maps
 | [27. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | DFS / Sets
 | [28. Counting Bits](https://leetcode.com/problems/counting-bits/) | DP |
-| [29. Course Schedule](https://leetcode.com/problems/course-schedule/) | Topological-Sort via BFS
+| [29. Course Schedule](https://leetcode.com/problems/course-schedule/) | Topological-Sort via BFS |
+| [30. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sorting
+
 
 
 

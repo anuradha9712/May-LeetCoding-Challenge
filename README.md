@@ -36,7 +36,8 @@ A collection of solution for the May Leetcode Challenge 2020.
 | [27. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | DFS / Sets
 | [28. Counting Bits](https://leetcode.com/problems/counting-bits/) | DP |
 | [29. Course Schedule](https://leetcode.com/problems/course-schedule/) | Topological-Sort via BFS |
-| [30. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sorting
+| [30. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Sorting|
+| [31. Edit Distance](https://leetcode.com/problems/edit-distance/) | Dynamic Programming |
 
 
 
